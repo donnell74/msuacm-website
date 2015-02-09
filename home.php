@@ -7,6 +7,7 @@
 
 <body>
 
+<h1 id="collaborators">Collaborators</h1>
 <p>Matt is a collaborator</p>
 <p>Matt P. is a collaborator</p>
 <p>Mitch is a swag nerd baller who is using vim to type.</p>
@@ -16,7 +17,6 @@
 <p>Zach is a collaborator</p>
 <p>Clint is a collaborator</p>
 <p>Topher is a collaborator</p>
-
 
 </body>
 </html>
