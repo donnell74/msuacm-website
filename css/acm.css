@@ -1,3 +1,10 @@
 /* This will take the place of the "MSU Global aspx.css"
 keep it simple
 */
+body {
+	background-color:#7e333a;
+}
+.nav_bar {
+	background-color:#7e333a;
+
+}
