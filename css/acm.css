@@ -1,10 +1,30 @@
 /* This will take the place of the "MSU Global aspx.css"
 keep it simple
 */
+
 body {
 	background-color:#7e333a;
+	margin: 0px;
 }
 .nav_bar {
-	background-color:#7e333a;
+	background-color:#5c0006;
+	padding-top: 5px;
+	
+}
+.nav_bar h1{
+	color: white;
+	margin-top: 0 ;
+	margin-left: 15px;
+	
+	}
+.nav-tabs li{
+	text-align: center;
+	width: 100px;
+}
+.nav-tabs li:hover {
+	color: #5c0006;
+	}
 
+#links a{
+	color: white;
 }
