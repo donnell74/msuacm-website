@@ -2,10 +2,11 @@
 <html>
 <head>
 <title>ACM</title>
-<link rel="type/css" type="css" href="acm.css" />
+<link rel="text/css" type="stylesheet" href="css/acm.css" />
 </head>
 
 <body>
+<?php include('header.html'); ?>
 
 <h1 id="collaborators">Collaborators</h1>
 <p>Matt is a collaborator</p>
@@ -18,5 +19,6 @@
 <p>Clint is a collaborator</p>
 <p>Topher is a collaborator</p>
 
+<?php include('footer.html'); ?>
 </body>
 </html>

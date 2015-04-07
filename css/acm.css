@@ -2,12 +2,12 @@
 keep it simple
 */
 
-#footer {
+footer {
   background-color: #EEEEEE;
-  color: white;
+  color: #428bca;
   width: 100%;
 }
 
-#footer link {
-  color: white;
+footer link {
+  color: #428bca;
 }
