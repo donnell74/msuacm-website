@@ -1,26 +1,40 @@
 /* This will take the place of the "MSU Global aspx.css"
 keep it simple
 */
+* { /*Global Rule: all elements have 0 margin and 0 padding unless otherwise specified.*/
+	margin: 0px;
+	padding: 0px;
+}
 
 body {
 	background-color:#7e333a;
 	margin: 0px;
 }
-.nav_bar {
-	background-color:#5c0006;
-	padding-top: 5px;
-	
+
+header {
+	text-align: center;
+	background-color: #5c0006;
 }
-.nav_bar h1{
+
+.logo {
+	width: 250px;
+	height: 250px;
+	margin: 50px 0px 50px 0px;
+}
+
+nav {
+	margin-left: 36%;
+	margin-right: 30%;
+}
+
+nav h1{
 	color: white;
-	margin-top: 0 ;
+	margin-top: 0;
 	margin-left: 15px;
-	
 }
 
 .nav-tabs li{
 	text-align: center;
-	width: 100px;
 }
 
 #links a:hover {
